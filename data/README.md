@@ -1,0 +1,1 @@
+Se anexan el resumen de información y métricas para listados en Buenos Aires (bueno para visualizaciones) en formato csv procedente de http://data.insideairbnb.com/argentina/ciudad-aut%C3%B3noma-de-buenos-aires/buenos-aires/2022-09-22/visualisations/listings.csv
